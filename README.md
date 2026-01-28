@@ -17,6 +17,9 @@ and business storytelling.
 | Executive Sales Performance Dashboard | Executive Reporting | Management KPIs | https://github.com/elakkiyasaravanan/Executive-Sales-Performance-Dashboard |
 | Shipment Analytics Dashboard | Operations Analytics | Logistics & ship mode analysis | https://github.com/elakkiyasaravanan/Shipment-Analytics-Power-BI-Dashboard-Project |
 | Customer Insights Dashboard | Customer Analytics | Customer behavior & trends | https://github.com/elakkiyasaravanan/Customer-Insights-Dashboard |
+| Courier Services Sales & Profit Dashboard | Logistics Analytics | Courier-wise sales & profit performance | https://github.com/elakkiyasaravanan/Courier-Services-Sales-Profit-Dashboard |
+| Category-Based Sales & Profit Navigation Dashboard | Sales Analytics | Category-wise drill-down & navigation | https://github.com/elakkiyasaravanan/Category-Based-Sales-Profit-Navigation-Dashboard |
+| Employee Assessment Dashboard | HR Analytics | Employee performance & skill assessment | https://github.com/elakkiyasaravanan/Employee-Assessment-Dashboard |
 
 ---
 
