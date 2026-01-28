@@ -13,10 +13,10 @@ and business storytelling.
 | Project Name | Business Domain | Key Focus | Link |
 |--------------|----------------|-----------|------|
 | Sales & Profit Analysis Dashboard | Sales Analytics | KPIs, profitability, segmentation | https://github.com/elakkiyasaravanan/Sales-Profit-Analysis-Dashboard |
-| HR Analytics Dashboard | HR Analytics | Workforce insights, trends | 🔗 |
-| Executive Sales Performance Dashboard | Executive Reporting | Management KPIs | 🔗 |
-| Shipment Analytics Dashboard | Operations Analytics | Logistics & ship mode analysis | 🔗 |
-| Customer Insights Dashboard | Customer Analytics | Customer behavior & trends | 🔗 |
+| HR Analytics Dashboard | HR Analytics | Workforce insights, trends | https://github.com/elakkiyasaravanan/HR-Analytical-Dashboard |
+| Executive Sales Performance Dashboard | Executive Reporting | Management KPIs | https://github.com/elakkiyasaravanan/Executive-Sales-Performance-Dashboard |
+| Shipment Analytics Dashboard | Operations Analytics | Logistics & ship mode analysis | https://github.com/elakkiyasaravanan/Shipment-Analytics-Power-BI-Dashboard-Project |
+| Customer Insights Dashboard | Customer Analytics | Customer behavior & trends | https://github.com/elakkiyasaravanan/Customer-Insights-Dashboard |
 
 ---
 
