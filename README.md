@@ -12,7 +12,7 @@ and business storytelling.
 
 | Project Name | Business Domain | Key Focus | Link |
 |--------------|----------------|-----------|------|
-| Sales & Profit Analysis Dashboard | Sales Analytics | KPIs, profitability, segmentation |  |
+| Sales & Profit Analysis Dashboard | Sales Analytics | KPIs, profitability, segmentation | https://github.com/elakkiyasaravanan/Sales-Profit-Analysis-Dashboard |
 | HR Analytics Dashboard | HR Analytics | Workforce insights, trends | 🔗 |
 | Executive Sales Performance Dashboard | Executive Reporting | Management KPIs | 🔗 |
 | Shipment Analytics Dashboard | Operations Analytics | Logistics & ship mode analysis | 🔗 |
